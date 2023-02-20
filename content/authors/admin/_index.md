@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailito:rechgab@gmail.com
+    link: mailto:rechgab@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rechgab
@@ -48,7 +48,7 @@ email: ""
 ---
 <!--StartFragment-->
 
-With a background in Biology, I've been working in Genomics and Bioinformatics since 2009, when I started my PhD Fellowship at the University of Salamanca (Spain). Since then, I've been fascinated about using information technologies for decoding the complexity of life.
+With a background in Biology, I've been working in Genomics and Bioinformatics since 2009, when I started my PhD Fellowship at the University of Salamanca (Spain). Since then, I've been fascinated about using data science and informatics for decoding the complexity of life.
 
 I've worked in a wide range of genomics questions such as determining the role of pathogenicity genes in pathogenic fungi and bacterias, exploring the use of miRNAs as biomarkers in cancer and how to use long-read sequencing technologies to better understand the role of transposable elements. 
 
