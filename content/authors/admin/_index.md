@@ -1,9 +1,9 @@
 ---
-title: Gabriel E. Rech
-role: "Computational Biologist "
+title: Gabriel E. Rech, Ph.D
+role: Computational Biologist
 avatar_filename: head-shot-photo-3.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests are in the field of Genomics, from DNA sequencing
+  technologies to translational genomics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
