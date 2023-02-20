@@ -1,7 +1,7 @@
 ---
 title: Gabriel E. Rech
 role: "Computational Biologist "
-avatar_filename: head-shot-photo.jpg
+avatar_filename: head-shot-photo-3.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
