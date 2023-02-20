@@ -52,6 +52,6 @@ With a background in Biology, I've been working in Genomics and Bioinformatics s
 
 I've worked in a wide range of genomics questions such as determining the role of pathogenicity genes in pathogenic fungi and bacterias, exploring the use of miRNAs as biomarkers in cancer and how to use long-read sequencing technologies to better understand the role of transposable elements. 
 
-In recent years, I have become very interested in transferring some of all we know about genomics into applications that directly benefit human health and well-being. This brought me to the Genome Technologies Group at the Jackson Laboratory, where I have been working on exciting projects, such as using methylation signatures in liquid biopsies, applying targeted long-read sequencing to characterize complex mutations, and performing quality controls of gene-therapy AAV and lentivirus vectors.
+In recent years, I have become very interested in transferring some of all we know about genomics into applications that directly benefit human health and well-being. This brought me to the Genome Technologies Group at the Jackson Laboratory, where I have been working on several exciting projects t﻿hat point in that direction, such as using methylation signatures in liquid biopsies, applying targeted long-read sequencing to characterize complex mutations, and performing quality controls of gene-therapy AAV and lentivirus vectors.
 
 <!--EndFragment-->
