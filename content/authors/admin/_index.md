@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: rechgab@gmail.com
+    link: mailito:rechgab@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rechgab
@@ -20,27 +20,24 @@ social:
     link: https://scholar.google.com/citations?user=_ka5E3gAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gabyrech
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/rechgab/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Jackson Laboratory
+    url: https://www.jax.org/people/gabriel-rech
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Bioinformatics
+      institution: University of Salamanca (Spain)
+      year: 2014
+    - course: Master Biotechnology
+      institution: University of Salamanca (Spain)
+      year: 2007
+    - course: BSc Biology
+      institution: University of Salta (Argentina)
+      year: 2011
 superuser: true
 status:
   icon: ☕️
