@@ -4,10 +4,7 @@ role: Computational Biologist
 avatar_filename: head-shot-photo-3.jpg
 bio: My research interests are in the field of Genomics, from DNA sequencing
   technologies to translational genomics.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -54,8 +51,10 @@ email: ""
 ---
 <!--StartFragment-->
 
-With a background in Biology (Argentina), I've been working in Genomics and Bioinformatics since 2009, when I started my PhD Fellowship at the University of Salamanca (Spain). Since then, I've been fascinated about using information technologies for decoding the complexity of life. I've been working in the bioinformatics side of a wide variety of projects, such as investigating pathogenicity genes in pathogenic fungi and bacterias, exploring the use of miRNAs as biomarkers in cancer or exploring the functional role of transposable elements. All these projects have had required not only an effective data management and processing of the sequencing data, but also a comprehensive understanding of the state-of-the-art computational methods.
+With a background in Biology, I've been working in Genomics and Bioinformatics since 2009, when I started my PhD Fellowship at the University of Salamanca (Spain). Since then, I've been fascinated about using information technologies for decoding the complexity of life.
 
-At JAX I work closely to Genome Technologies Team in developing and applying the most innovative bioinformatic methods for analyzing data generated with the cutting-edge genomic and sequencing technologies.
+I've worked in a wide range of genomics questions such as determining the role of pathogenicity genes in pathogenic fungi and bacterias, exploring the use of miRNAs as biomarkers in cancer and how to use long-read sequencing technologies to better understand the role of transposable elements. 
+
+In recent years, I have become very interested in transferring some of all we know about genomics into applications that directly benefit human health and well-being. This brought me to the Genome Technologies Group at the Jackson Laboratory, where I have been working on exciting projects, such as using methylation signatures in liquid biopsies, applying targeted long-read sequencing to characterize complex mutations, and performing quality controls of gene-therapy AAV and lentivirus vectors.
 
 <!--EndFragment-->
