@@ -1,8 +1,9 @@
 ---
 widget: Biography
-widget_id: my-widget-123
+widget_id: Biography
 headless: true
 weight: 10
+title: Biography
 active: true
 design:
   columns: "2"
