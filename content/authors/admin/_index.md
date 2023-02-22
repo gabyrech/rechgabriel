@@ -1,7 +1,7 @@
 ---
 title: Gabriel E. Rech, Ph.D
 role: Computational Biologist
-avatar_filename: head-shot-photo-3.jpg
+avatar_filename: head-shot-photo-4-low-res.png
 bio: My research interests are in the field of Genomics, from DNA sequencing
   technologies to translational genomics.
 interests: []
